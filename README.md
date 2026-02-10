@@ -6,4 +6,3 @@ The supplementary PDF includes:
 - Additional experimental results
 - Detailed per-image comparisons
 - Extended visual comparisons
-
